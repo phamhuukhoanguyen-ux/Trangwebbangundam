@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Gundam Shop</title>
+</head>
+
+<body>
+
+    <h1 align="center">GUNDAM SHOP</h1>
+    <h3 align="center">Mô hình Gunpla chính hãng</h3>
+    <hr>
+
+    <h2>Danh mục sản phẩm</h2>
+
+    <table border="1" width="100%" cellpadding="10">
+        <tr>
+            <th>Hình ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá</th>
+            <th>Hành động</th>
+        </tr>
+
+        <tr>
+            <td align="center">
+                <img src="rx78.jpg" alt="RX-78-2 Gundam" width="150">
+            </td>
+            <td>RX-78-2 Gundam (HG)</td>
+            <td>350.000₫</td>
+            <td><button>Thêm vào giỏ</button></td>
+        </tr>
+
+        <tr>
+            <td align="center">
+                <img src="barbatos.jpg" alt="Gundam Barbatos" width="150">
+            </td>
+            <td>Gundam Barbatos (MG)</td>
+            <td>1.200.000₫</td>
+            <td><button>Thêm vào giỏ</button></td>
+        </tr>
+
+        <tr>
+            <td align="center">
+                <img src="strikefreedom.jpg" alt="Strike Freedom Gundam" width="150">
+            </td>
+            <td>Strike Freedom Gundam (RG)</td>
+            <td>950.000₫</td>
+            <td><button>Thêm vào giỏ</button></td>
+        </tr>
+
+        <tr>
+            <td align="center">
+                <img src="unicorn.jpg" alt="Unicorn Gundam" width="150">
+            </td>
+            <td>Unicorn Gundam (RG)</td>
+            <td>1.050.000₫</td>
+            <td><button>Thêm vào giỏ</button></td>
+        </tr>
+
+    </table>
+
+    <hr>
+
+    <h3 align="center">© 2025 Gundam Shop – Gunpla chính hãng</h3>
+
+</body>
+</html>
